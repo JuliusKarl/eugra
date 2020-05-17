@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/eugra/static/css/main.5d531811.chunk.css",
+    "main.js": "/eugra/static/js/main.08c8a030.chunk.js",
+    "main.js.map": "/eugra/static/js/main.08c8a030.chunk.js.map",
+    "runtime-main.js": "/eugra/static/js/runtime-main.d3a1fe57.js",
+    "runtime-main.js.map": "/eugra/static/js/runtime-main.d3a1fe57.js.map",
+    "static/js/2.6c555d48.chunk.js": "/eugra/static/js/2.6c555d48.chunk.js",
+    "static/js/2.6c555d48.chunk.js.map": "/eugra/static/js/2.6c555d48.chunk.js.map",
+    "index.html": "/eugra/index.html",
+    "precache-manifest.48f1d716ebfeb189dca52de15fe72ad0.js": "/eugra/precache-manifest.48f1d716ebfeb189dca52de15fe72ad0.js",
+    "service-worker.js": "/eugra/service-worker.js",
+    "static/css/main.5d531811.chunk.css.map": "/eugra/static/css/main.5d531811.chunk.css.map",
+    "static/js/2.6c555d48.chunk.js.LICENSE.txt": "/eugra/static/js/2.6c555d48.chunk.js.LICENSE.txt",
+    "static/media/Untitled-2.png": "/eugra/static/media/Untitled-2.5addf878.png",
+    "static/media/google-play-badge-large.png": "/eugra/static/media/google-play-badge-large.77436d72.png",
+    "static/media/google-play-badge.png": "/eugra/static/media/google-play-badge.8cedafee.png",
+    "static/media/menu.png": "/eugra/static/media/menu.814ad0c9.png",
+    "static/media/plus.png": "/eugra/static/media/plus.26ab6ef1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3a1fe57.js",
+    "static/js/2.6c555d48.chunk.js",
+    "static/css/main.5d531811.chunk.css",
+    "static/js/main.08c8a030.chunk.js"
+  ]
+}
