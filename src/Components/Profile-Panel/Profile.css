@@ -1,0 +1,38 @@
+.Profile-Container {
+    max-height: 100vh;
+    color: black;
+    padding: 10px;
+    height: 100vh;
+    text-align: center;
+    width: 100vw;
+}
+
+.Profile-Content {
+    padding: 5px;
+    border-radius: 5px;
+    background: rgba(245, 245, 245, 0.9);
+}
+input[type=submit] {
+    margin-top: 10px;
+    background: #5a6d81;
+    color: white;
+    transition: background 0.1s ease-in-out;
+}
+
+input[type=submit]:hover {
+    background: #76b5f5;
+    transition: background 0.1s ease-in-out;
+}
+
+small, small b {
+    cursor: pointer;
+    color: black;
+    font-size: 14px;
+    transition: color 0.1s ease-in-out;
+}
+
+small b:hover {
+    color: #a0a0a0;
+    transition: color 0.1s ease-in-out;
+}
+

@@ -1,0 +1,46 @@
+/* Localize the margin and padding into one whole element, possibly asterisk */
+a, img {
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  margin: 0 auto;
+  max-height: 100vh;
+  overflow: hidden;
+  padding: 0;
+  text-align: center;
+  width: 95vw;
+}
+
+.App-Container {
+  background-image: -webkit-gradient(linear, right top, left top, from(#76b5f5), to(#004c8c));
+}
+
+.App-header {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  font-size: calc(10px + 2vmin);
+  justify-content: space-between;
+  min-height: 5vh;
+  padding: 10px;
+}
+
+/* Remove if asterisk class affects the margin and padding */
+hr {
+  padding: 0px;
+  margin: 0px;
+}
+
+.main {
+  align-items: stretch;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  font-size: calc(10px + 2vmin);
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+}

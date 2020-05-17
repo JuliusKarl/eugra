@@ -1,0 +1,32 @@
+.Trending-Container {
+    color: black;
+    text-align: center;
+    padding: 10px;
+    height: 100vh;
+    width: 100vw;
+}
+
+.Trending-Content {
+    border-radius: 5px;
+    background: rgba(245, 245, 245, 0.9);
+}
+
+input {
+    border-radius: 5px;
+    border: 0;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    font-size: 16px;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: #f8f8f8;
+}
+
+.Footer-Container {
+    font-size: 12px;
+    color: #f8f8f8;
+}
+
