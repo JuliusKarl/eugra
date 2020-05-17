@@ -2,7 +2,6 @@
   "name": "eugra-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://juliuskarl.github.io/eugra",
   "dependencies": {
     "acorn": "^6.4.1",
     "bootstrap": "^4.3.1",
